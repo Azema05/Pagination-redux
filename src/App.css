@@ -1,0 +1,29 @@
+.btn2,
+.btn1 {
+
+    width: 70px;
+    height: 35px;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: transparent;
+    color: #eee;
+    border-color: #eee;
+}
+
+.parent-btns {
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    color: rgb(77, 77, 77);
+}
